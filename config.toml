@@ -1,4 +1,5 @@
-baseURL = "http://Toshahiko.github.io"
-languageCode = "en-us"
+baseURL = "http://example.org/"
+languageCode = "ja"
 title = "My New Hugo Site"
 theme = "ananke"
+disableKinds = ["RSS", "sitemap"]
