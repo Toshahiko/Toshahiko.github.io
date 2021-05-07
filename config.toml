@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://toshahiko.github.io"
 languageCode = "ja"
 title = "ボインゴのページ"
 theme = "ananke"
